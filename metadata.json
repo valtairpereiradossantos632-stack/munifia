@@ -1,0 +1,6 @@
+{
+  "name": "Steam Gratis & Demos Finder",
+  "description": "Encontre, filtre e descubra todos os melhores jogos gratuitos, lançamentos free-to-play e demos jogáveis da Steam com links diretos de instalação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
